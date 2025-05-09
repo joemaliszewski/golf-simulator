@@ -1,0 +1,102 @@
+[
+    {
+        "Golfer": "Sergio Garcia",
+        "Mean": 68.99802084636,
+        "Standard deviation": 2.8022106094
+    },
+    {
+        "Golfer": "Tiger Woods",
+        "Mean": 69.35135041782,
+        "Standard deviation": 2.7891506279
+    },
+    {
+        "Golfer": "Kenny Perry",
+        "Mean": 69.91471916678,
+        "Standard deviation": 2.779164583
+    },
+    {
+        "Golfer": "Gonzalo Fernandez-Castano",
+        "Mean": 70.00454323213,
+        "Standard deviation": 2.80730658184
+    },
+    {
+        "Golfer": "Rory McIlroy",
+        "Mean": 70.03914628487,
+        "Standard deviation": 2.81525581752
+    },
+    {
+        "Golfer": "John Cook",
+        "Mean": 70.07314839476,
+        "Standard deviation": 2.748840518
+    },
+    {
+        "Golfer": "Jaco Van Zyl",
+        "Mean": 70.08926215876,
+        "Standard deviation": 2.78426082931
+    },
+    {
+        "Golfer": "Brandt Snedeker",
+        "Mean": 70.17987728156,
+        "Standard deviation": 2.77189131799
+    },
+    {
+        "Golfer": "Francesco Molinari",
+        "Mean": 70.21681358363,
+        "Standard deviation": 2.74834473201
+    },
+    {
+        "Golfer": "Matteo Manassero",
+        "Mean": 70.22010792006,
+        "Standard deviation": 2.77346484857
+    },
+    {
+        "Golfer": "Rocco Mediate",
+        "Mean": 70.24975090651,
+        "Standard deviation": 2.78827651594
+    },
+    {
+        "Golfer": "Phil Mickelson",
+        "Mean": 70.2831986625,
+        "Standard deviation": 2.77942880401
+    },
+    {
+        "Golfer": "Justin Rose",
+        "Mean": 70.28785317825,
+        "Standard deviation": 2.75785755538
+    },
+    {
+        "Golfer": "Jim Furyk",
+        "Mean": 70.29979751876,
+        "Standard deviation": 2.74303206415
+    },
+    {
+        "Golfer": "Luke Donald",
+        "Mean": 70.31075778923,
+        "Standard deviation": 2.75356932454
+    },
+    {
+        "Golfer": "South Africa",
+        "Mean": 70.32676162032,
+        "Standard deviation": 2.752106981
+    },
+    {
+        "Golfer": "Charl Schwartzel",
+        "Mean": 70.39461420897,
+        "Standard deviation": 2.78476477706
+    },
+    {
+        "Golfer": "Duffy Waldorf",
+        "Mean": 70.40624211864,
+        "Standard deviation": 2.75608325682
+    },
+    {
+        "Golfer": "Darren Fichardt",
+        "Mean": 70.42869494626,
+        "Standard deviation": 2.7804524764
+    },
+    {
+        "Golfer": "Jay Haas",
+        "Mean": 70.44274917206,
+        "Standard deviation": 2.712519019
+    }
+]

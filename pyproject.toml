@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "golf-simulator"
+version = "0.1.0"
+description = "A golf performance simulator and stats analyzer."
+requires-python = ">=3.8"
+dependencies = [
+  "annotated-types==0.7.0",
+  "cowsay==6.1", 
+  "pydantic==2.11.4",
+  "pydantic-core==2.33.2",
+  "pytest==8.3.5",
+  "tabulate==0.9.0",
+  "typing-extensions==4.13.2",
+  "typing-inspection==0.4.0"
+]
+
+[tool.setuptools.packages.find]
+where = ["."]
+exclude = ["tests", "docs"]
+
+[tool.pytest.ini_options]
+addopts = "-ra -q"
+testpaths = ["tests"]
